@@ -1,3 +1,5 @@
 require "rubygems"
 require "rack"
-run Rack::File.new(File.dirname(__FILE__))
+run Rack::File.new(
+  File.join( File.dirname(__FILE__), "/public")
+)
