@@ -18,7 +18,7 @@
 .tweet_list li {
   overflow-y: auto;
   overflow-x: hidden;
-  padding: 0.5em;
+  padding: 0em 0.5em 0.5em 0.5em;
   list-style-type: none;
 }
 
@@ -27,7 +27,6 @@
 }
 
 .tweet_list .tweet_even {
-  background-color: #91E5E7;
 }
 
 .tweet_list .tweet_avatar {
