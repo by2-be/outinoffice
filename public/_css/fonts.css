@@ -3,4 +3,9 @@
 	Theme URI: http://themes.pulyavserdce.com
 /*-----------------------------------------------------------------------------------*/
 
-	@font-face{font-family:'Jenna Sue';src:url('http://themes.pulyavserdce.com/coffee-break/_fonts/jennasue-webfont.eot');src:url('http://themes.pulyavserdce.com/coffee-break/_fonts/jennasue-webfont.eot?#iefix') format('embedded-opentype'),url('http://themes.pulyavserdce.com/coffee-break/_fonts/jennasue-webfont.woff') format('woff'),url('http://themes.pulyavserdce.com/coffee-break/_fonts/jennasue-webfont.ttf') format('truetype'),url('http://themes.pulyavserdce.com/coffee-break/_fonts/jennasue-webfont.svg#AsapRegular') format('svg');font-weight:normal;font-style:normal;}
+@font-face {
+  font-family: "Jenna Sue";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../_fonts/jennasue-webfont.eot?#iefix") format("embedded-opentype"), url("../_fonts/jennasue-webfont.woff") format("woff"), url("../_fonts/jennasue-webfont.ttf") format("truetype"), url("../_fonts/jennasue-webfont.svg#AsapRegular") format("svg");
+}
