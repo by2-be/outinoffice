@@ -1,2 +1,2 @@
 config/deploy.rb
-.DS_Store
+*.DS_Store
