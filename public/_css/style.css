@@ -28,9 +28,15 @@ CUSTOM
 }
 .what a{
   font:40px Jenna Sue, Helvetica, Arial, sans-serif;
-  text-align:center;
-  display:block;
+}
+.what {
   width:100%
+}
+
+.what p{
+  text-align:center;
+  color:white !important;
+  font:40px Jenna Sue, Helvetica, Arial, sans-serif;
 }
 
 /*----------------------------
