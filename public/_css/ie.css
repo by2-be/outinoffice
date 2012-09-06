@@ -12,4 +12,5 @@
 	.text-area{width:300px;padding-top:180px;margin-left:85px;text-align:center;}
 	.error{font:86px Jenna Sue, Helvetica, Arial, sans-serif;}
 	.details, .homepage{font:42px Jenna Sue, Helvetica, Arial, sans-serif;}
-	.homepage{background:url(../_images/home.png) no-repeat;padding-left:50px;float:right;right:45px;top:-50px;position:relative;text-align:center;}
+	/* .homepage{background:url(../_images/home.png) no-repeat;padding-left:50px;float:right;right:45px;top:-50px;position:relative;text-align:center;}*/
+	.homepage{padding-left:50px;float:right;right:45px;top:-50px;position:relative;text-align:center;}
